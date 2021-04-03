@@ -1,4 +1,4 @@
-# Grav Form Plugin
+# ClubCMS Form Plugin
 
 The **form plugin** for ClubCMS adds the ability to create and use forms.  This is currently used extensively by the **admin** and **login** plugins.
 
